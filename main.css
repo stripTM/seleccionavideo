@@ -1,0 +1,51 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.videos {
+    margin-top: 1vw;
+    margin-left: 5vw;
+    width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+.videos .video {
+    width: 25%;
+    /* transition: width ease 0.5s; */
+}
+.videos .video video,
+.videos .video img {
+    display: block;
+    width: 100%;
+}
+.videos .video.visible {
+    width: 100%;
+}
+.videos .video.hide {
+    width: 0;
+}
+
+#admin {
+    height: 1rem;
+    opacity: 0;
+    cursor: help;
+    transition: opacity ease 0.5s;
+}
+#admin input[type=submit] {
+    cursor: pointer;
+}
+#admin .close {
+    display: none;
+}
+#admin.active {
+    opacity: 1;
+    cursor: auto;
+}
+#admin.active .close {
+    display: inline;
+}

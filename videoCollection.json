@@ -1,0 +1,53 @@
+{
+    "refreshTime": 1000,
+    "videos": [
+        {
+            "src": "videos/01_FRANCISCO_MOLINA.mov",
+            "title": "video 1"
+        },
+        {
+            "src": "videos/02_Mayte_Prada.mp4",
+            "title": "video 2"
+        },
+        {
+            "src": "videos/03_Mar_Ruiz.mp4",
+            "title": "video 3"
+        },
+        {
+            "src": "videos/04_ROCIO_VADILLOS.mp4",
+            "title": "video 4"
+        },
+        {
+            "src": "videos/05_FERNANDO_REPISO.mp4",
+            "title": "video 5"
+        },
+        {
+            "src": "videos/06_CRISTINA_ROVIRA_GARCIA.mp4",
+            "title": "video 6"
+        },
+        {
+            "src": "videos/07_Cesar_Garcia.mp4",
+            "title": "video 7"
+        },
+        {
+            "src": "videos/08_Susana_Rodrigo.mp4",
+            "title": "video 8"
+        },
+        {
+            "src": "videos/09_GERARDO_ILLERA.mp4",
+            "title": "video 9"
+        },
+        {
+            "src": "videos/10_ALEJANDRO_ORTEGA_MATEO.mp4",
+            "title": "video 10"
+        },
+        {
+            "src": "videos/11_ALBA_REPISO.mp4",
+            "title": "video 11"
+        },
+        {
+            "src": "videos/12_CARLOS_DEL_SAZ.mp4",
+            "title": "video 12"
+        }
+    ]
+}
